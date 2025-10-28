@@ -1,6 +1,6 @@
 import React, { useEffect, useState } from "react";
 import { useNavigate, useOutletContext } from "react-router";
-import ArtistCard from "../component/mainContentComponents/artistCard";
+import ArtistCard from "../component/mainContentComponents/ArtistCard";
 import { useDominantColor } from "../hook/useDominantColor";
 import { FaMusic } from "react-icons/fa";
 
